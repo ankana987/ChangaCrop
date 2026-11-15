@@ -37,6 +37,7 @@ Open the local URL printed by Vite (usually http://localhost:5173).
 - The default field analytics are sample data in `src/data/demoFields.js`. Do not present them as real satellite measurements.
 - The crop-health chart is illustrative sample data.
 - The frontend service tries the backend first and falls back to sample data if the API is unavailable.
+<img width="1600" height="807" alt="WhatsApp Image 2026-11-15 at 12 44 57 PM" src="https://github.com/user-attachments/assets/06addda5-4cd6-4fb4-92fa-6753702a841a" />
 
 ## Backend integration
 
